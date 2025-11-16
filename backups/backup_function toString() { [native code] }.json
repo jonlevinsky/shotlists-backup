@@ -1,0 +1,84 @@
+{
+  "shotLists": [
+    {
+      "id": "1763280095832",
+      "numericId": "1",
+      "name": "Shot List 1",
+      "createdAt": 1763280095832,
+      "shots": [
+        {
+          "name": "gfdgfd",
+          "shotSize": "",
+          "cameraId": "bmpocket6k",
+          "resolution": "",
+          "fps": "",
+          "codec": "",
+          "focalLength": "",
+          "aperture": "",
+          "iso": "",
+          "shutterSpeed": "",
+          "durationSeconds": 300,
+          "notes": "",
+          "thumbnail": null,
+          "isFinal": false,
+          "id": "1763329924677",
+          "numericId": 1,
+          "takeNumber": 1,
+          "timestamp": 1763329924677
+        },
+        {
+          "name": "gfdgfd",
+          "shotSize": "",
+          "cameraId": "bmpocket6k",
+          "resolution": "",
+          "fps": "",
+          "codec": "",
+          "focalLength": "",
+          "aperture": "",
+          "iso": "",
+          "shutterSpeed": "",
+          "durationSeconds": 300,
+          "notes": "",
+          "thumbnail": null,
+          "isFinal": false,
+          "id": "1763332742575",
+          "numericId": 2,
+          "takeNumber": 2,
+          "timestamp": 1763332742575
+        },
+        {
+          "name": "gfdgfdkjh",
+          "shotSize": "",
+          "cameraId": "bmpocket6k",
+          "resolution": "",
+          "fps": "",
+          "codec": "",
+          "focalLength": "",
+          "aperture": "",
+          "iso": "",
+          "shutterSpeed": "",
+          "durationSeconds": 300,
+          "notes": "",
+          "thumbnail": null,
+          "isFinal": false,
+          "id": "1763334137763",
+          "numericId": 3,
+          "takeNumber": 1,
+          "timestamp": 1763334137763
+        }
+      ],
+      "defaultCamera": "bmpocket6k",
+      "defaultStorage": "ssd"
+    }
+  ],
+  "settings": {
+    "defaultCamera": "bmpocket6k",
+    "defaultStorage": "ssd",
+    "defaultResolution": "",
+    "defaultCodec": "",
+    "defaultFps": ""
+  },
+  "customStorages": [],
+  "backupDate": "2025-11-16T23:05:48.510Z",
+  "version": "1.0"
+}
